@@ -1,0 +1,23 @@
+{
+  "context": "",
+  "dictionary": [
+    {
+      "balti": "Khiri",
+      "english": "Your"
+    },
+    {
+      "balti": "mintakpo",
+      "english": "name"
+    },
+    {
+      "balti": "chiin",
+      "english": "what is"
+    },
+    {
+      "balti": "attay",
+      "english": "father's"
+    }
+  ],
+  "forbiddenWords": [],
+  "tone": "Casual"
+}
